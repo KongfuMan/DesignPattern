@@ -6,11 +6,11 @@ package Creational.FactoryMethod;
 // for example, we flip a coin to decide whether we create a dog or cat.
 public class FactoryMethod {
 
-    public static IAnimal createAnimal(int animalType){
-        switch (animalType){
-            case 1:
+    public static IAnimal createAnimal(AnimalType type){
+        switch (type){
+            case CAT:
                 return new Cat();
-            case 2:
+            case DOG:
                 return new Dog();
             default:
                 return new Bird();
