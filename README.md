@@ -20,16 +20,23 @@ The client don't have to care about difference between s3 and Azure.
 - 2.Decorator
 
 
+- 3. Simple Factory pattern
 
-- 3.Factory
+- 4. Factory Method pattern
+
+- 4. Abstract Factory pattern
+
+- 5. Observer pattern
 
 
-- 4.Observer 
+- 6. Proxy pattern
 
 
-- Proxy
-
-
-- State Machine
+- 7.State Machine pattern
+Typically, state machine pattern can be used when there are multiple state for a system.
+Each state can transite to another state through api calls. You can draw a transition diagram
+for these state.
+For example the ATM machine, you can have different stata, like card_inserted, idle, user_not_login.
+user_login.
 
 
