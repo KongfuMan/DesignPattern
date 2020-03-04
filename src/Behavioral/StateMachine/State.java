@@ -7,11 +7,11 @@ public abstract class State {
         this.gate = gate;
     }
 
-    public void enter(){};
+    public abstract void enter();
 
-    public void pay(){};
+    public abstract void pay();
 
-    public void payOK(){};
+    public abstract void payOK();
 
-    public void payFailed(){};
+    public abstract void payFailed();
 }
