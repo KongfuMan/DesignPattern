@@ -1,13 +1,13 @@
 package Behavioral.Decorator;
 
-public class Tea implements IBeverage {
+public class HouseBlend implements Coffee {
     @Override
     public String getDescription() {
-        return " to Tea";
+        return "HouseBlend";
     }
 
     @Override
     public int cost() {
-        return 10;
+        return 4;
     }
 }

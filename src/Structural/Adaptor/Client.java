@@ -2,7 +2,7 @@ package Structural.Adaptor;
 
 public class Client {
     public static void main(String[] argvs){
-        ITarget target = new Adaptor(new Adaptee());
+        ITarget target = new StorageAdapter(new S3ClientAdapter());
         target.request();
     }
 }

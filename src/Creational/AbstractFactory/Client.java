@@ -7,4 +7,8 @@ public class Client {
         windowsFact.getCheckBox();
         windowsFact.getDropList();
     }
+
+    public static synchronized void sum(){
+        
+    }
 }
