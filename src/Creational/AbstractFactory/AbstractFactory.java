@@ -6,9 +6,9 @@ package Creational.AbstractFactory;
 // However, the constraint here is that only a combination of A and B, C and D, E and F make sense.
 // That means that you can not create A and C together, A and E together so on and so forth.
 public abstract class AbstractFactory {
-    abstract public Button getButton();
+    abstract public Button crateButton();
 
-    abstract public CheckBox getCheckBox();
+    abstract public CheckBox createCheckBox();
 
-    abstract public DropList getDropList();
+    abstract public DropList createDropList();
 }

@@ -2,17 +2,17 @@ package Creational.AbstractFactory;
 
 public class MacFactory extends AbstractFactory {
     @Override
-    public Button getButton() {
+    public Button crateButton() {
         return new MacButton();
     }
 
     @Override
-    public CheckBox getCheckBox() {
+    public CheckBox createCheckBox() {
         return new MacCheckBox();
     }
 
     @Override
-    public DropList getDropList() {
+    public DropList createDropList() {
         return new MacDropList();
     }
 }
