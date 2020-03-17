@@ -5,114 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa943dac-eafa-48c6-a819-907d2e4bab11" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Creational/SimpleFactory/IAnimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Creational/AbstractFactory/AbstractFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Creational/AbstractFactory/AbstractFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Creational/AbstractFactory/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Creational/AbstractFactory/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Creational/AbstractFactory/MacFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Creational/AbstractFactory/MacFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Creational/AbstractFactory/WindowsFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Creational/AbstractFactory/WindowsFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Creational/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Creational/FactoryMethod/AnimalType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Creational/FactoryMethod/Bird.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Creational/FactoryMethod/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Creational/FactoryMethod/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Creational/FactoryMethod/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Creational/FactoryMethod/FactoryMethod$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Creational/FactoryMethod/FactoryMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Creational/FactoryMethod/IAnimal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Creational/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbstractClasses/BaseInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AbstractClasses/BaseInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbstractClasses/BaseInterface2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AbstractClasses/BaseInterface2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbstractClasses/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AbstractClasses/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbstractClasses/SubInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AbstractClasses/SubInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbstractClasses/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AbstractClasses/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbstractClasses/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AbstractClasses/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Annotation/AnnotationsSample/BusinessLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Annotation/AnnotationsSample/BusinessLogic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Annotation/AnnotationsSample/Todo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Annotation/AnnotationsSample/Todo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Annotation/AnnotationsSample/TodoReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Annotation/AnnotationsSample/TodoReport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Annotation/deprecatedtest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Annotation/deprecatedtest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Annotation/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Annotation/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Annotation/useDeprecatedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Annotation/useDeprecatedTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Decorator/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Decorator/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Decorator/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Decorator/Coffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Decorator/CoffeeDecorator/CoffeeDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Decorator/CoffeeDecorator/CoffeeDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Decorator/CoffeeDecorator/Milk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Decorator/CoffeeDecorator/Milk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Decorator/CoffeeDecorator/Mocha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Decorator/CoffeeDecorator/Mocha.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Decorator/CoffeeDecorator/Soy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Decorator/CoffeeDecorator/Soy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Decorator/DarkRoast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Decorator/DarkRoast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Decorator/Decaf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Decorator/Decaf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Decorator/Expresso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Decorator/Expresso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Decorator/HouseBlend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Decorator/HouseBlend.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Delegate/LG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Delegate/LG.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Delegate/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Delegate/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Delegate/OLed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Delegate/OLed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Delegate/OLedDelegate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Delegate/OLedDelegate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Delegate/Samsumg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Delegate/Samsumg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Delegate/Xiaomi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Delegate/Xiaomi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Observer/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Observer/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Observer/ConcreteObservable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Observer/ConcreteObservable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Observer/ConcreteObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Observer/ConcreteObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Observer/IObservable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Observer/IObservable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Observer/IObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Observer/IObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Proxy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Proxy/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Proxy/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Proxy/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Proxy/RealMovie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Proxy/RealMovie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Proxy/RealMovieProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Proxy/RealMovieProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/StateMachine/ClosedState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/StateMachine/ClosedState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/StateMachine/Gate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/StateMachine/Gate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/StateMachine/OpenState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/StateMachine/OpenState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/StateMachine/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/StateMachine/State.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Strategy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Strategy/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Strategy/DisplayGreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Strategy/DisplayGreen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Strategy/DisplayYellow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Strategy/DisplayYellow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Strategy/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Strategy/Duck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Strategy/FlapFly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Strategy/FlapFly.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Strategy/HighQuack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Strategy/HighQuack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Strategy/IDisplayBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Strategy/IDisplayBehavior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Strategy/IFlyBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Strategy/IFlyBehavior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Strategy/IQuackBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Strategy/IQuackBehavior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Behavioral/Strategy/JetFly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Strategy/JetFly.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Creational/AbstractFactory/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/AbstractFactory/AbstractFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Creational/AbstractFactory/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/AbstractFactory/Button.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Creational/AbstractFactory/CheckBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/AbstractFactory/CheckBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Creational/AbstractFactory/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/AbstractFactory/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Creational/AbstractFactory/DropList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/AbstractFactory/DropList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Creational/AbstractFactory/MacButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/AbstractFactory/MacButton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Creational/AbstractFactory/MacCheckBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/AbstractFactory/MacCheckBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Creational/AbstractFactory/MacDropList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/AbstractFactory/MacDropList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Creational/AbstractFactory/MacFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/AbstractFactory/MacFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Creational/AbstractFactory/WindowsButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/AbstractFactory/WindowsButton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Creational/AbstractFactory/WindowsCheckBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/AbstractFactory/WindowsCheckBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Creational/AbstractFactory/WindowsDropList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/AbstractFactory/WindowsDropList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Creational/AbstractFactory/WindowsFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/AbstractFactory/WindowsFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Creational/Builder/MyBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/Builder/MyBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Creational/Builder/MyData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/Builder/MyData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Creational/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Creational/FactoryMethod/AnimalType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/SimpleFactory/AnimalType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Creational/FactoryMethod/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/SimpleFactory/Bird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Creational/FactoryMethod/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/SimpleFactory/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Creational/FactoryMethod/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/SimpleFactory/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Creational/FactoryMethod/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/SimpleFactory/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Creational/FactoryMethod/FactoryMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/SimpleFactory/SimpleFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Creational/FactoryMethod/IAnimal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Creational/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Creational/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Creational/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IPC/Binder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IPC/Binder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IPC/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IPC/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IPC/IBinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IPC/IBinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IPC/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IPC/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IPC/ServiceManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IPC/ServiceManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Structural/Adaptor/AzureClientAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Structural/Adaptor/AzureClientAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Structural/Adaptor/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Structural/Adaptor/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Structural/Adaptor/ITarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Structural/Adaptor/ITarget.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Structural/Adaptor/S3ClientAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Structural/Adaptor/S3ClientAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Structural/Adaptor/StorageAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Structural/Adaptor/StorageAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Structural/Template/American.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Structural/Template/American.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Structural/Template/Chinese.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Structural/Template/Chinese.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Structural/Template/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Structural/Template/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Structural/Template/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Structural/Template/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -158,14 +51,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Creational/SimpleFactory/SimpleFactoryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
+            <state relative-caret-position="330">
               <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="357">
+                <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -268,7 +173,6 @@
         <option value="$PROJECT_DIR$/src/Creational/FactoryMethod/FactoryMethod.java" />
         <option value="$PROJECT_DIR$/src/Creational/FactoryMethod/Client.java" />
         <option value="$PROJECT_DIR$/src/Behavioral/StateMachine/State.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/Creational/AbstractFactory/AbstractFactory.java" />
         <option value="$PROJECT_DIR$/src/Creational/SimpleFactory/FactoryMethod.java" />
         <option value="$PROJECT_DIR$/src/Creational/SimpleFactory/SimpleFactory.java" />
@@ -276,6 +180,7 @@
         <option value="$PROJECT_DIR$/src/test/Creational/SimpleFactory/SimpleFactoryTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Creational/SimpleFactory/Client.java" />
         <option value="$PROJECT_DIR$/src/test/java/Creational/SimpleFactory/SimpleFactoryTest.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -331,23 +236,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Creational" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Creational" type="462c0819:PsiDirectoryNode" />
-              <item name="SimpleFactory" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
@@ -660,7 +548,7 @@
     <frame x="0" y="23" width="1677" height="992" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49759614" visible="true" weight="0.21223241" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49759614" visible="true" weight="0.21223241" />
       <window_info id="Structure" order="1" weight="0.3101777" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -669,12 +557,12 @@
       <window_info id="Favorites" order="6" sideWeight="0.50240386" side_tool="true" weight="0.24798061" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.1884058" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4588889" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4588889" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.36888888" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.40222222" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.40222222" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32961783" />
@@ -807,21 +695,6 @@
             <element signature="e#587#588#0" expanded="true" />
             <element signature="e#662#663#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="132">
-            <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -1084,11 +957,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Creational/SimpleFactory/SimpleFactoryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
+        <state relative-caret-position="330">
           <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="357">
+            <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
