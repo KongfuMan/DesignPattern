@@ -17,13 +17,13 @@ You can just use an adapter class, which has an unified API, let's say
 This class has a concrete implementation of the storage service.
 The client don't have to care about difference between s3 and Azure.
 
-- 2.Decorator
+- Decorator
 - Simple Factory pattern
 - Factory Method pattern
 - Abstract Factory pattern
 - Observer pattern
 - Proxy pattern
-- State Machine pattern
+- State Machine pattern <br>
 Typically, state machine pattern can be used when there are multiple state for a system.
 Each state can transit to another state through api calls. You can draw a transition diagram
 for these state.
