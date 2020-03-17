@@ -1,4 +1,4 @@
-package Creational.FactoryMethod;
+package Creational.SimpleFactory;
 
 public class Dog implements IAnimal {
 

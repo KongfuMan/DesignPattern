@@ -1,4 +1,4 @@
-package Creational.FactoryMethod;
+package Creational.SimpleFactory;
 
 public class Bird implements IAnimal {
 

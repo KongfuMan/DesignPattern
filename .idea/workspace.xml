@@ -5,12 +5,114 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa943dac-eafa-48c6-a819-907d2e4bab11" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Creational/SimpleFactory/IAnimal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Behavioral/StateMachine/State.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Behavioral/StateMachine/State.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Creational/AbstractFactory/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/AbstractFactory/AbstractFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Creational/AbstractFactory/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/AbstractFactory/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Creational/AbstractFactory/MacFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/AbstractFactory/MacFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Creational/AbstractFactory/WindowsFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Creational/AbstractFactory/WindowsFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Creational/AbstractFactory/AbstractFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Creational/AbstractFactory/AbstractFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Creational/AbstractFactory/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Creational/AbstractFactory/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Creational/AbstractFactory/MacFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Creational/AbstractFactory/MacFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Creational/AbstractFactory/WindowsFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Creational/AbstractFactory/WindowsFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Creational/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Creational/FactoryMethod/AnimalType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Creational/FactoryMethod/Bird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Creational/FactoryMethod/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Creational/FactoryMethod/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Creational/FactoryMethod/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Creational/FactoryMethod/FactoryMethod$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Creational/FactoryMethod/FactoryMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Creational/FactoryMethod/IAnimal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Creational/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractClasses/BaseInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AbstractClasses/BaseInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractClasses/BaseInterface2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AbstractClasses/BaseInterface2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractClasses/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AbstractClasses/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractClasses/SubInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AbstractClasses/SubInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractClasses/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AbstractClasses/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractClasses/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AbstractClasses/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Annotation/AnnotationsSample/BusinessLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Annotation/AnnotationsSample/BusinessLogic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Annotation/AnnotationsSample/Todo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Annotation/AnnotationsSample/Todo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Annotation/AnnotationsSample/TodoReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Annotation/AnnotationsSample/TodoReport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Annotation/deprecatedtest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Annotation/deprecatedtest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Annotation/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Annotation/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Annotation/useDeprecatedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Annotation/useDeprecatedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Decorator/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Decorator/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Decorator/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Decorator/Coffee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Decorator/CoffeeDecorator/CoffeeDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Decorator/CoffeeDecorator/CoffeeDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Decorator/CoffeeDecorator/Milk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Decorator/CoffeeDecorator/Milk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Decorator/CoffeeDecorator/Mocha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Decorator/CoffeeDecorator/Mocha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Decorator/CoffeeDecorator/Soy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Decorator/CoffeeDecorator/Soy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Decorator/DarkRoast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Decorator/DarkRoast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Decorator/Decaf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Decorator/Decaf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Decorator/Expresso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Decorator/Expresso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Decorator/HouseBlend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Decorator/HouseBlend.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Delegate/LG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Delegate/LG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Delegate/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Delegate/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Delegate/OLed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Delegate/OLed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Delegate/OLedDelegate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Delegate/OLedDelegate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Delegate/Samsumg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Delegate/Samsumg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Delegate/Xiaomi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Delegate/Xiaomi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Observer/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Observer/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Observer/ConcreteObservable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Observer/ConcreteObservable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Observer/ConcreteObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Observer/ConcreteObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Observer/IObservable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Observer/IObservable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Observer/IObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Observer/IObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Proxy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Proxy/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Proxy/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Proxy/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Proxy/RealMovie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Proxy/RealMovie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Proxy/RealMovieProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Proxy/RealMovieProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/StateMachine/ClosedState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/StateMachine/ClosedState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/StateMachine/Gate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/StateMachine/Gate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/StateMachine/OpenState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/StateMachine/OpenState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/StateMachine/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/StateMachine/State.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Strategy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Strategy/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Strategy/DisplayGreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Strategy/DisplayGreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Strategy/DisplayYellow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Strategy/DisplayYellow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Strategy/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Strategy/Duck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Strategy/FlapFly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Strategy/FlapFly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Strategy/HighQuack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Strategy/HighQuack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Strategy/IDisplayBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Strategy/IDisplayBehavior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Strategy/IFlyBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Strategy/IFlyBehavior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Strategy/IQuackBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Strategy/IQuackBehavior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Behavioral/Strategy/JetFly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Strategy/JetFly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Creational/AbstractFactory/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/AbstractFactory/AbstractFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Creational/AbstractFactory/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/AbstractFactory/Button.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Creational/AbstractFactory/CheckBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/AbstractFactory/CheckBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Creational/AbstractFactory/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/AbstractFactory/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Creational/AbstractFactory/DropList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/AbstractFactory/DropList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Creational/AbstractFactory/MacButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/AbstractFactory/MacButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Creational/AbstractFactory/MacCheckBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/AbstractFactory/MacCheckBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Creational/AbstractFactory/MacDropList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/AbstractFactory/MacDropList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Creational/AbstractFactory/MacFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/AbstractFactory/MacFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Creational/AbstractFactory/WindowsButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/AbstractFactory/WindowsButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Creational/AbstractFactory/WindowsCheckBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/AbstractFactory/WindowsCheckBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Creational/AbstractFactory/WindowsDropList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/AbstractFactory/WindowsDropList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Creational/AbstractFactory/WindowsFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/AbstractFactory/WindowsFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Creational/Builder/MyBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/Builder/MyBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Creational/Builder/MyData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/Builder/MyData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Creational/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Creational/FactoryMethod/AnimalType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/SimpleFactory/AnimalType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Creational/FactoryMethod/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/SimpleFactory/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Creational/FactoryMethod/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/SimpleFactory/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Creational/FactoryMethod/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/SimpleFactory/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Creational/FactoryMethod/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/SimpleFactory/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Creational/FactoryMethod/FactoryMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/SimpleFactory/SimpleFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Creational/FactoryMethod/IAnimal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Creational/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Creational/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Creational/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Creational/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IPC/Binder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IPC/Binder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IPC/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IPC/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IPC/IBinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IPC/IBinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IPC/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IPC/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IPC/ServiceManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IPC/ServiceManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Structural/Adaptor/AzureClientAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Structural/Adaptor/AzureClientAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Structural/Adaptor/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Structural/Adaptor/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Structural/Adaptor/ITarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Structural/Adaptor/ITarget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Structural/Adaptor/S3ClientAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Structural/Adaptor/S3ClientAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Structural/Adaptor/StorageAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Structural/Adaptor/StorageAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Structural/Template/American.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Structural/Template/American.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Structural/Template/Chinese.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Structural/Template/Chinese.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Structural/Template/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Structural/Template/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Structural/Template/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Structural/Template/Person.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,94 +130,69 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Behavioral/Proxy/RealMovieProxy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/main/java/Structural/Template/Person.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Creational/AbstractFactory/Client.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Structural/Template/Chinese.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Structural/Template/American.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/IPC/Binder.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Creational/SimpleFactory/SimpleFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+            <state relative-caret-position="146">
+              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Creational/AbstractFactory/AbstractFactory.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Creational/SimpleFactory/SimpleFactoryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Creational/AbstractFactory/WindowsCheckBox.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Creational/AbstractFactory/WindowsButton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Creational/AbstractFactory/WindowsFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Creational/AbstractFactory/WindowsDropList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Creational/AbstractFactory/MacButton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Behavioral/Proxy/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Behavioral/Delegate/Samsumg.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="299">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
               <folding>
-                <element signature="e#94#95#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Creational/SimpleFactory/IAnimal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Creational/SimpleFactory/Bird.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Creational/SimpleFactory/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -129,6 +206,7 @@
         <option value="Interface" />
         <option value="Class" />
         <option value="Enum" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -147,12 +225,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Behavioral/Builder/MyData.java" />
-        <option value="$PROJECT_DIR$/src/Behavioral/Builder/MyBuilder.java" />
-        <option value="$PROJECT_DIR$/src/Annotation/deprecatedtest.java" />
-        <option value="$PROJECT_DIR$/src/Annotation/useDeprecatedTest.java" />
-        <option value="$PROJECT_DIR$/src/Annotation/AnnotationsSample/BusinessLogic.java" />
-        <option value="$PROJECT_DIR$/src/Behavioral/Proxy/Movie.java" />
         <option value="$PROJECT_DIR$/src/Behavioral/Proxy/RealMovie.java" />
         <option value="$PROJECT_DIR$/src/Behavioral/Proxy/RealMovieProxy.java" />
         <option value="$PROJECT_DIR$/src/Behavioral/Proxy/Client.java" />
@@ -198,6 +270,12 @@
         <option value="$PROJECT_DIR$/src/Behavioral/StateMachine/State.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/Creational/AbstractFactory/AbstractFactory.java" />
+        <option value="$PROJECT_DIR$/src/Creational/SimpleFactory/FactoryMethod.java" />
+        <option value="$PROJECT_DIR$/src/Creational/SimpleFactory/SimpleFactory.java" />
+        <option value="$PROJECT_DIR$/src/Creational/ReadMe.md" />
+        <option value="$PROJECT_DIR$/src/test/Creational/SimpleFactory/SimpleFactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Creational/SimpleFactory/Client.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Creational/SimpleFactory/SimpleFactoryTest.java" />
       </list>
     </option>
   </component>
@@ -245,14 +323,82 @@
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Creational" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Creational" type="462c0819:PsiDirectoryNode" />
-              <item name="AbstractFactory" type="462c0819:PsiDirectoryNode" />
+              <item name="SimpleFactory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="SimpleFactory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -261,11 +407,17 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -274,10 +426,17 @@
     <property name="settings.editor.selected.configurable" value="project.scopes" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Creational.SimpleFactory" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="LeetCode" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
       <recent name="$PROJECT_DIR$/src/Annotation" />
       <recent name="$PROJECT_DIR$/src/Creational" />
     </key>
@@ -294,62 +453,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.SimpleFactoryTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AbstractClasses.Car" />
-      <module name="DesignPattern" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AbstractClasses.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Creational.FactoryMethod.Client" />
-      <module name="DesignPattern" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Creational.FactoryMethod.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Behavioral.Decorator.Client" />
-      <module name="DesignPattern" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Behavioral.Decorator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Structural.Adaptor.Client" />
+      <option name="MAIN_CLASS_NAME" value="Creational.SimpleFactory.Client" />
       <module name="DesignPattern" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Structural.Adaptor.*" />
+          <option name="PATTERN" value="Creational.SimpleFactory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -405,6 +522,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SimpleFactoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Creational.SimpleFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Creational.SimpleFactory" />
+      <option name="MAIN_CLASS_NAME" value="Creational.SimpleFactory.SimpleFactoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleFactoryTest.simple_factory_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Creational.SimpleFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Creational.SimpleFactory" />
+      <option name="MAIN_CLASS_NAME" value="Creational.SimpleFactory.SimpleFactoryTest" />
+      <option name="METHOD_NAME" value="simple_factory_test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -432,20 +582,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.T" />
-      <item itemvalue="Application.Client" />
-      <item itemvalue="Application.Car" />
       <item itemvalue="Application.Client (1)" />
-      <item itemvalue="Application.Client (2)" />
       <item itemvalue="Application.main (1)" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.SimpleFactoryTest" />
+      <item itemvalue="JUnit.SimpleFactoryTest.simple_factory_test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SimpleFactoryTest" />
+        <item itemvalue="JUnit.SimpleFactoryTest.simple_factory_test" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client (1)" />
-        <item itemvalue="Application.Car" />
-        <item itemvalue="Application.Client (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -481,6 +630,29 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="SimpleFactoryTest - 2020.03.17 at 09h 08m 03s.xml">
+      <configuration name="SimpleFactoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SimpleFactoryTest - 2020.03.17 at 09h 08m 12s.xml">
+      <configuration name="SimpleFactoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SimpleFactoryTest_simple_factory_test - 2020.03.17 at 09h 10m 31s.xml">
+      <configuration name="SimpleFactoryTest.simple_factory_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SimpleFactoryTest_simple_factory_test - 2020.03.17 at 09h 10m 49s.xml">
+      <configuration name="SimpleFactoryTest.simple_factory_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SimpleFactoryTest - 2020.03.17 at 09h 11m 27s.xml">
+      <configuration name="SimpleFactoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SimpleFactoryTest - 2020.03.17 at 09h 11m 57s.xml">
+      <configuration name="SimpleFactoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SimpleFactoryTest - 2020.03.17 at 09h 12m 11s.xml">
+      <configuration name="SimpleFactoryTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="27270000" />
   </component>
@@ -488,7 +660,7 @@
     <frame x="0" y="23" width="1677" height="992" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49759614" visible="true" weight="0.20978594" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49759614" visible="true" weight="0.21223241" />
       <window_info id="Structure" order="1" weight="0.3101777" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -497,12 +669,12 @@
       <window_info id="Favorites" order="6" sideWeight="0.50240386" side_tool="true" weight="0.24798061" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.1884058" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4589372" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4588889" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.36888888" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.29666665" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.40222222" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32961783" />
@@ -527,19 +699,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Creational/Client.java</url>
-          <line>64</line>
-          <properties />
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Creational/Client.java</url>
-          <line>66</line>
-          <properties />
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Behavioral/Delegate/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Behavioral/Delegate/Main.java</url>
           <line>4</line>
           <properties />
           <option name="timeStamp" value="14" />
@@ -557,197 +717,35 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/AbstractClasses/Vehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AbstractClasses/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AbstractClasses/BaseInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AbstractClasses/BaseInterface2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AbstractClasses/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AbstractClasses/SubInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/Strategy/FlapFly.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/Strategy/HighQuack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Adaptor/StorageAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Adaptor/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Adaptor/AzureClientAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="31" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Adaptor/S3ClientAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="31" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="31" />
-          <folding>
-            <element signature="e#86#87#0" expanded="true" />
-            <element signature="e#154#155#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/Strategy/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/Strategy/DisplayYellow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/Strategy/DisplayGreen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/Strategy/Duck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structural/Adaptor/ITarget.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/FactoryMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Creational/AbstractFactory/Button.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Creational/AbstractFactory/Button.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Creational/AbstractFactory/CheckBox.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Creational/AbstractFactory/CheckBox.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/AnimalType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/IAnimal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Creational/AbstractFactory/MacFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Creational/AbstractFactory/MacFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/Decorator/CoffeeDecorator/CoffeeDecorator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Behavioral/Decorator/CoffeeDecorator/CoffeeDecorator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/Decorator/CoffeeDecorator/Milk.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Behavioral/Decorator/CoffeeDecorator/Milk.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
@@ -758,7 +756,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/Decorator/CoffeeDecorator/Mocha.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Behavioral/Decorator/CoffeeDecorator/Mocha.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
@@ -769,7 +767,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/Decorator/CoffeeDecorator/Soy.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Behavioral/Decorator/CoffeeDecorator/Soy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
@@ -783,21 +781,21 @@
     <entry file="file://$PROJECT_DIR$/DesignPattern.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/StateMachine/State.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Behavioral/StateMachine/State.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/StateMachine/OpenState.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Behavioral/StateMachine/OpenState.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="20" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/StateMachine/ClosedState.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Behavioral/StateMachine/ClosedState.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
@@ -827,21 +825,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/Delegate/LG.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Behavioral/Delegate/LG.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/Delegate/OLed.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Behavioral/Delegate/OLed.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/Delegate/OLedDelegate.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Behavioral/Delegate/OLedDelegate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
@@ -852,14 +850,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/Delegate/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Behavioral/Delegate/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/Delegate/Xiaomi.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Behavioral/Delegate/Xiaomi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
@@ -871,28 +869,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/Proxy/RealMovie.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Behavioral/Proxy/RealMovie.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="22" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/Proxy/Movie.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Behavioral/Proxy/Movie.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/Proxy/Client.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Behavioral/Proxy/RealMovieProxy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/Delegate/Samsumg.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Creational/AbstractFactory/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Creational/AbstractFactory/WindowsCheckBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Creational/AbstractFactory/WindowsButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Creational/AbstractFactory/WindowsFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Creational/AbstractFactory/WindowsDropList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Creational/AbstractFactory/MacButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Behavioral/Proxy/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Behavioral/Delegate/Samsumg.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
@@ -902,59 +949,146 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behavioral/Proxy/RealMovieProxy.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Creational/AbstractFactory/AbstractFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Creational/AbstractFactory/Client.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Creational/Singleton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        <state relative-caret-position="308">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Creational/AbstractFactory/WindowsCheckBox.java">
+    <entry file="file://$PROJECT_DIR$/src/Creational/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Creational/AbstractFactory/WindowsButton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Creational/AbstractFactory/WindowsDropList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Creational/AbstractFactory/MacButton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Creational/AbstractFactory/WindowsFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
+        <state relative-caret-position="-242">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Creational/AbstractFactory/AbstractFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Creational/SimpleFactory/AnimalType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="154">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Creational/ReadMe.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="264">
+            <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Structural/Adaptor/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Structural/Adaptor/ITarget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Structural/Adaptor/StorageAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Structural/Adaptor/S3ClientAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Structural/Adaptor/AzureClientAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Structural/Template/Client.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Structural/Template/Person.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Structural/Template/Chinese.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Structural/Template/American.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/IPC/Binder.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Creational/SimpleFactory/SimpleFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Creational/SimpleFactory/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Creational/SimpleFactory/SimpleFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Creational/SimpleFactory/Bird.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Creational/SimpleFactory/IAnimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="1304" column="18" selection-start-line="1304" selection-start-column="18" selection-end-line="1304" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Creational/SimpleFactory/SimpleFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
