@@ -52,9 +52,6 @@ public class BinaryTree<T> implements MyIterable {
 
     @Override
     public MyIterator getIterator() {
-//        ArrayList<Integer> list;
-//        list.iterator();
-
         return new MyIteratorImpl();
     }
 
@@ -62,7 +59,5 @@ public class BinaryTree<T> implements MyIterable {
         ArrayList<Integer> bt1 = new ArrayList<>();
         Iterator<Integer> it1 = bt1.iterator();
         Iterator<Integer> it2 = bt1.iterator();
-        int i = 1;
-
     }
 }
