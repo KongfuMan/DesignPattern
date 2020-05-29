@@ -19,3 +19,14 @@
 - 工厂方法模式只有一个抽象产品类，而抽象工厂模式有多个。   
 - 工厂方法模式的具体工厂类只能创建一个具体产品类的实例，而抽象工厂模式可以创建多个。
    两者皆可。 
+   
+## Builder
+- Too many fields for a class
+- Probably add more fields in the future. Don't want to modify the constructor with params
+
+## StepBuilder
+- Advanced Builder pattern. Force user to follow a certain steps to set params
+- User cannot call builder without setting all required fields.
+
+## Prototype
+- User clone an object (deep copy), especially objects from hierachical class

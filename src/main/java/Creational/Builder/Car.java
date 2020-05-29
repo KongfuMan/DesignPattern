@@ -19,13 +19,13 @@ public class Car {
     }
 
     public static class Builder{
-        private final String carBody;
-        private final String tyre;
+        private final String carBody; //mandatory field
+        private final String tyre;    //mandatory field
 
-        private String engine;
-        private String aimingCircle;
-        private String decoration;
-        private String safetyBelt;
+        private String engine;        //optional field
+        private String aimingCircle;  //optional field
+        private String decoration;    //optional field
+        private String safetyBelt;    //optional field
 
         public Builder(String carBody, String tyre){
             this.carBody = carBody;
