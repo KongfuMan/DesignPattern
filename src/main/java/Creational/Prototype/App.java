@@ -2,13 +2,10 @@ package Creational.Prototype;
 
 public class App {
     public static void main(String[] args) {
-        Shape s = new Rectangle.Builder()
-                .withX(0)
-                .withY(0)
-                .withColor("black")
-                .withHeight(10)
-                .withWidth(10).build();
-        Shape scopy = s.clone();
-        int i = 1;
+        Shape rectangle = new Rectangle(0,0,"black", 10,10);
+        Shape rectanglecopy = rectangle.clone();
+
+        Shape circle = new Circle(0,0,"white", 10);
+        Shape circleCopy  = circle.clone();
     }
 }
