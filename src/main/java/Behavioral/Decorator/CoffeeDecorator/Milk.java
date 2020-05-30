@@ -5,9 +5,8 @@ import Behavioral.Decorator.Coffee;
 public class Milk extends CoffeeDecorator {
 
     public Milk(Coffee coffee){
-        this.coffee = coffee;
+        super(coffee);
     }
-
 
     @Override
     public String getDescription() {
@@ -16,6 +15,6 @@ public class Milk extends CoffeeDecorator {
 
     @Override
     public int cost() {
-        return 10;
+        return 1 + this.coffee.cost();
     }
 }
