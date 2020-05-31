@@ -1,4 +1,4 @@
-package Behavioral.Proxy;
+package Structural.Proxy;
 
 public class RealMovieProxy implements Movie {
     RealMovie realMovie;
@@ -7,8 +7,12 @@ public class RealMovieProxy implements Movie {
         this.realMovie = realMovie;
     }
 
+    /**
+     * The proxy add extra functionality besides the play() logic.
+     *
+     * */
     public void play(){
-        beforePlay();
+        beforePlay();       //extra logic
         realMovie.play();
         afterPlay();
     }

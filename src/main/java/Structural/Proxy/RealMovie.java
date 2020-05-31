@@ -1,4 +1,4 @@
-package Behavioral.Proxy;
+package Structural.Proxy;
 
 public class RealMovie implements Movie {
 
