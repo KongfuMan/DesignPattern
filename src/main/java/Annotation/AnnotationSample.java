@@ -1,6 +1,7 @@
 package Annotation;
 
+@Deprecated
 @deprecatedtest(value = "AbstractClasses.Vehicle")
-public class useDeprecatedTest {
+public class AnnotationSample {
 
 }
