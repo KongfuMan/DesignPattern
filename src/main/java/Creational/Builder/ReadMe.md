@@ -38,7 +38,7 @@ public class User {
 
 参数较少的时候问题还不大，一旦参数多了，代码可读性就很差，并且难以维护。
 对调用者来说也很麻烦。如果我只想多传一个address参数，还必需给age、phone设置默认值。而且调用者还会有这样的困惑：我怎么知道第四个String类型的参数该传address还是phone？
-另一个问题是，如果将来需要添加Fields, 那么需要修改带参构造函数，这就违反了（open-close principle)
+另一个问题是，如果将来需要添加Fields, 那么需要修改带参构造函数，这就违反了(open-close principle)     
 第二种解决办法就出现了，我们同样可以根据JavaBean的习惯，设置一个空参数的构造方法，然后为每一个属性设置setters和getters方法。就像下面一样：
 
 ```
