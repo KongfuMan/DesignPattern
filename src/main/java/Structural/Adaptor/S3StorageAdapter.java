@@ -1,5 +1,9 @@
 package Structural.Adaptor;
 
+/**
+ * S3StorageAdapter used to convert incompatible S3Storage class into client-compatible.
+ *
+ * */
 public class S3StorageAdapter implements IStorage {
     private S3Storage S3Storage;
 

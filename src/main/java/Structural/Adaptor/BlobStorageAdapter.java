@@ -1,5 +1,10 @@
 package Structural.Adaptor;
 
+
+/**
+ * Convert incompatible {@class} BlobStorage  into client compatible
+ *
+ * */
 public class BlobStorageAdapter implements IStorage {
     private BlobStorage blobStorage;
 

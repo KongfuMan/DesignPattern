@@ -1,5 +1,11 @@
 package Structural.Adaptor;
 
+
+/**
+ * Incompatible class
+ *
+ *
+ * */
 public class S3Storage {
 
     public void s3SpecificSave(){
