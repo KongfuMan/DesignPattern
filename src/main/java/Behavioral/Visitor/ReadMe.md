@@ -12,12 +12,12 @@
 
 
 ###Classes
-- interface Visitor
-- class ConcreteVisitor （支持的操作，多变）
+> interface Visitor     
+ class ConcreteVisitor （支持的操作，多变）
 
-- Element: has a grader. (visitor可以对数据记性访问)
-- ConcreteElement (数据结构，比较稳定)
-
+> Element: has a grader. (visitor可以对数据进行访问)     
+ConcreteElement (数据结构，比较稳定)     
+Can be a tree
 
 ####Scenario:
 > 如果老师教学反馈得分大于等于85分、学生成绩大于等于90分，则可以入选成绩优秀奖；如果老师论文数目大于8、学生论文数目大于2，则可以入选科研优秀奖。
@@ -28,3 +28,12 @@
 
 ###Reference
 [设计模式[23]-访问者模式](https://www.jianshu.com/p/cd17bae4e949)
+
+
+
+## Real world examples
+
+* [Apache Wicket](https://github.com/apache/wicket) component tree, see [MarkupContainer](https://github.com/apache/wicket/blob/b60ec64d0b50a611a9549809c9ab216f0ffa3ae3/wicket-core/src/main/java/org/apache/wicket/MarkupContainer.java)
+* [javax.lang.model.element.AnnotationValue](http://docs.oracle.com/javase/8/docs/api/javax/lang/model/element/AnnotationValue.html) and [AnnotationValueVisitor](http://docs.oracle.com/javase/8/docs/api/javax/lang/model/element/AnnotationValueVisitor.html)
+* [javax.lang.model.element.Element](http://docs.oracle.com/javase/8/docs/api/javax/lang/model/element/Element.html) and [Element Visitor](http://docs.oracle.com/javase/8/docs/api/javax/lang/model/element/ElementVisitor.html)
+* [java.nio.file.FileVisitor](http://docs.oracle.com/javase/8/docs/api/java/nio/file/FileVisitor.html)
