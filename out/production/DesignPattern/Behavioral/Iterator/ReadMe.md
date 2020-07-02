@@ -9,7 +9,7 @@ the implementation of collections such that user can
 use this iterator to go through the collectoins.
 
 
-[img]("/Iteartor.png")
+[img]("Iteartor.png")
 
 Iteratable:
     Itertor<T> getIterator(); // this is actually a factory method to

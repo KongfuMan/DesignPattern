@@ -5,6 +5,4 @@ public class Main {
         Xiaomi xm = new Xiaomi(new OLedDelegate(new Samsumg()));
         xm.startToProduceLed(5);
     }
-
-
 }

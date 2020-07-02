@@ -1,6 +1,8 @@
 ##Delegate Pattern
 将Class和方法进行解耦合，可以随时换不同的实现方法
 
+可以结合C#的delegate 关键字，相当于C++中的函数指针。在JAVA中没有函数指针/引用，
+可以通过接口来实现。
 
 ###Example
 > 假设有一个OLED屏幕的代理工厂（OLEDDelegate),它可以生产LG, Samsung两家的面板.
@@ -27,7 +29,7 @@ public class Samsung implements OLE{
 }
 
 public class OLEDDelegate{
-    private OLE ole;
+    private OLE ole; // 不同的品牌的生产方法。相当于C++函数指针的作用
     public OLEDDelegate(OLE ole){
         this.ole = ole;
     }
@@ -38,4 +40,6 @@ public class OLEDDelegate{
 }
 
 ```
+
+Liang：相当于复用了代理class中的代码，只是替换了不同的生产方法而已。
 

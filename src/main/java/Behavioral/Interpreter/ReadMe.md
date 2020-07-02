@@ -1,7 +1,7 @@
 ###Interpreter
 
 
-###用于表达一个编程语言的syntax tree.
+###用于表示一个编程语言的syntax tree.
 
 ```java
 public abstract class Expression{
@@ -9,8 +9,8 @@ public abstract class Expression{
 }
 
 public class PlusExpression extends Expression{
-    private Expression left; //递归结构
-    private Expression rigth; //递归结构
+    private Expression left; //左子节点
+    private Expression right; //右子节点
 }
 
 ```

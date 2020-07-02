@@ -1,4 +1,4 @@
-package Behavioral.StateMachine;
+package Behavioral.StateMachine.Gate;
 
 public abstract class State {
     protected Gate gate;

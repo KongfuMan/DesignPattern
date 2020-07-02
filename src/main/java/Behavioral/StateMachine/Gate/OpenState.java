@@ -1,4 +1,4 @@
-package Behavioral.StateMachine;
+package Behavioral.StateMachine.Gate;
 
 public class OpenState extends State {
     public OpenState(Gate gate){
