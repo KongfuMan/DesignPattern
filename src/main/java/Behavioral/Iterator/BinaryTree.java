@@ -16,6 +16,7 @@ public class BinaryTree<T> implements MyIterable {
 
     private TreeNode root;
 
+    // 中序遍历迭代器
     private class MyIteratorImpl implements MyIterator{
 
         private Stack<TreeNode> stack;

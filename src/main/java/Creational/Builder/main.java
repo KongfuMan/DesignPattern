@@ -9,6 +9,5 @@ public class main {
                 .AimingCircle("my-aiming-circle")
                 .Decoration("my-decoration")
                 .Engine("my-egnine").build();
-        int i = 1;
     }
 }
