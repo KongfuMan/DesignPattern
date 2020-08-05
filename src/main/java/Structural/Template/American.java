@@ -1,8 +1,8 @@
 package Structural.Template;
 
-public class American extends Person {
-    @Override
-    public String stepTwo() {
-        return "take pizza";
-    }
+public class American extends Person<American> {
+	@Override
+	public void cookFood() {
+		System.out.println("American cooking");
+	}
 }
