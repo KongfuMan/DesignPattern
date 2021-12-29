@@ -1,48 +1,55 @@
 package Behavioral.Iterator;
 
 
-import java.util.ArrayList;
+import lombok.Getter;
+import lombok.Setter;
+
 import java.util.Iterator;
 import java.util.Stack;
 
-// binary tree implement MyIterable
-public class BinaryTree<T> implements MyIterable {
+public class BinaryTree<T> implements Iterable {
 
-    class TreeNode<T>{
-        T val;
-        TreeNode left;
-        TreeNode right;
+    private class TreeNode {
+        private T val;
+        private TreeNode left;
+        private TreeNode right;
+
+        TreeNode(T val){
+            this.val = val;
+        }
     }
 
+    @Setter
+    @Getter
     private TreeNode root;
 
-    // 中序遍历迭代器
-    private class MyIteratorImpl implements MyIterator{
+    // In-order iterator
+    private class InOrderIterator implements Iterator<T> {
 
         private Stack<TreeNode> stack;
 
-        private MyIteratorImpl() {
+        private InOrderIterator() {
             stack = new Stack<>();
             TreeNode node = root;
-            while(node != null){
+            while (node != null) {
                 stack.push(node);
                 node = node.left;
             }
         }
 
         @Override
-        public Object next() {
-            if (hasNext()){
+        public T next() {
+            if (hasNext()) {
                 return null;
             }
             TreeNode res = stack.pop();
             TreeNode node = res;
             node = node.right;
-            while(node != null){
+            while (node != null) {
                 stack.push(node);
                 node = node.left;
             }
-            return res;
+            return res.val;
         }
 
         @Override
@@ -51,14 +58,60 @@ public class BinaryTree<T> implements MyIterable {
         }
     }
 
-    @Override
-    public MyIterator getIterator() {
-        return new MyIteratorImpl();
+    private class PreOrderIterator implements Iterator<T> {
+
+        private Stack<TreeNode> stack;
+
+        private PreOrderIterator() {
+            stack = new Stack<>();
+            stack.push(root);
+        }
+
+        @Override
+        public T next() {
+            return null;
+        }
+
+        @Override
+        public boolean hasNext() {
+            return false;
+        }
     }
 
-    public static void main(String[] args) {
-        ArrayList<Integer> bt1 = new ArrayList<>();
-        Iterator<Integer> it1 = bt1.iterator();
-        Iterator<Integer> it2 = bt1.iterator();
+    private class PostOrderIterator implements Iterator<T> {
+
+        private Stack<TreeNode> stack;
+
+        private PostOrderIterator() {
+            stack = new Stack<>();
+            stack.push(root);
+        }
+
+        @Override
+        public T next() {
+            return null;
+        }
+
+        @Override
+        public boolean hasNext() {
+            return false;
+        }
+    }
+
+    @Override
+    public Iterator iterator() {
+        return getInOrderIterator();
+    }
+
+    public Iterator getInOrderIterator() {
+        return new InOrderIterator();
+    }
+
+    public Iterator getPreOrderIterator() {
+        return new PreOrderIterator();
+    }
+
+    public Iterator getPostOrderIterator() {
+        return new PostOrderIterator();
     }
 }
