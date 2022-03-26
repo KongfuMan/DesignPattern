@@ -14,6 +14,6 @@ public class Client {
         coffee = new Mocha(coffee);
         coffee = new Milk(coffee);
         System.out.println("Your order is " + coffee.getDescription());
-        System.out.println("Totally costs is "+ coffee.cost());
+        System.out.println("Total cost is "+ coffee.cost());
     }
 }
