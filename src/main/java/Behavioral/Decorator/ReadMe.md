@@ -1,4 +1,4 @@
-##Decorator Pattern
+## Decorator Pattern
 A cup of coffee consists of multiple parts:
 - coffee itself;
 - some additives, like sugar, milk which decorate the coffee.
@@ -9,7 +9,7 @@ A cup of coffee consists of multiple parts:
 > represents a decorator, the last node is the entity that is decorated.
 
 
-##Bridge Pattern
+## Bridge Pattern
 Besides the additives, a cup coffee can have several sizes：
 - Large
 - Medium
