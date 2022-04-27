@@ -7,15 +7,15 @@ This project talks about the basic usage and scenario about 18 common design pat
 of unified APIs to the user.
 Let's take the following use case as an example.
 
-Suppose we are building a back end webservice which needs to store the data into both AWS s3
-and Microsoft Azure. Since the APIs of s3 is different with that of azure, for the user who
+Suppose we are building a back end service to save data into both AWS S3
+and Microsoft Azure blob storage. Since the APIs of S3 is different with that of blob storage, for the user who
 wants to call this API, he needs to be aware of the difference.
 
 This is where Adapter pattern comes into play.
 You can just use an adapter class, which has an unified API, let's say
 `public void save(Data data)`.
 This class has a concrete implementation of the storage service.
-The client don't have to care about difference between s3 and Azure.
+The clients don't have to care about difference between s3 and blob storage.
 
 - Decorator
 - Simple Factory pattern
