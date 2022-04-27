@@ -1,9 +1,19 @@
 ##Decorator Pattern
-咖啡有添加
+A cup of coffee consists of multiple parts:
+- coffee itself;
+- some additives, like sugar, milk which decorate the coffee.
 
+![decorator pattern UML diagram](decorator_uml.svg)
 
+> Essentially, you can think of a decorator as a singly linked list. Each node 
+> represents a decorator, the last node is the entity that is decorated.
 
 
 ##Bridge Pattern
-咖啡有两个维度：咖啡种类 + 大中小杯。两个维度各自变化且相互没有关系。
-这样一来使用bridge，将两个维度连接起来。
+Besides the additives, a cup coffee can have several sizes：
+- Large
+- Medium
+- Small
+
+So we have two varying dimensions for coffee: coffee and additives, cup size. These two 
+can vary independently. In order to decouple the two dimensions, we use bridge pattern.
