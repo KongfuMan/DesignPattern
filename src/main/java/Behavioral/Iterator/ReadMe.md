@@ -9,10 +9,13 @@ the implementation of collections such that user can
 use this iterator to go through the collectoins.
 
 
-[img]("Iteartor.png")
+![img](Iterator.png)
 
-Iteratable:
-    Itertor<T> getIterator(); // this is actually a factory method to
-    create a iterator instance;
+```java
+public interface Iterable<T> {
+    Iterator<T> iterator();
+}
+```
+
     
     

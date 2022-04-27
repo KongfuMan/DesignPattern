@@ -7,11 +7,11 @@
     <bookmark url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/io/Reader.java" description="public abstract class Reader implements Readable, ..." line="50" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa943dac-eafa-48c6-a819-907d2e4bab11" name="Default" comment="Modify Read me file">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Decorator/decorator_uml.svg" afterDir="false" />
+    <list default="true" id="fa943dac-eafa-48c6-a819-907d2e4bab11" name="Default" comment="Add Read me for decorator pattern">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Behavioral/Command/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Command/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Behavioral/Decorator/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Decorator/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Behavioral/Iterator/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Iterator/ReadMe.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -498,7 +498,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651019105315</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add Read me for decorator pattern">
+      <created>1651021787929</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651021787929</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -618,7 +625,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Modify Read me file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modify Read me file" />
+    <MESSAGE value="Add Read me for decorator pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Read me for decorator pattern" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
