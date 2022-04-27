@@ -7,15 +7,11 @@
     <bookmark url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/io/Reader.java" description="public abstract class Reader implements Readable, ..." line="50" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa943dac-eafa-48c6-a819-907d2e4bab11" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+    <list default="true" id="fa943dac-eafa-48c6-a819-907d2e4bab11" name="Default" comment="Modify Read me file">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Decorator/decorator_uml.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Behavioral/Iterator/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Iterator/BinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Behavioral/Iterator/MyIterable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Behavioral/Iterator/MyIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Behavioral/Command/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Command/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Behavioral/Decorator/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behavioral/Decorator/ReadMe.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +72,11 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -292,11 +293,11 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/Behavioral/Decorator" />
+      <recent name="$PROJECT_DIR$/src/main/resources/images" />
       <recent name="$PROJECT_DIR$/src/main/java/Behavioral/StateMachine/TrafficLight/assets" />
       <recent name="$PROJECT_DIR$/src/main/java/Creational/AbstractFactory/etc" />
       <recent name="$PROJECT_DIR$/src/main/java" />
-      <recent name="$PROJECT_DIR$/src/Annotation" />
-      <recent name="$PROJECT_DIR$/src/Creational" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Creational" />
@@ -406,13 +407,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -488,6 +491,14 @@
       <workItem from="1555285626164" duration="470000" />
       <workItem from="1640754394220" duration="3091000" />
     </task>
+    <task id="LOCAL-00001" summary="Modify Read me file">
+      <created>1651019105315</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651019105315</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -603,6 +614,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Modify Read me file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modify Read me file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
