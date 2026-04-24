@@ -10,7 +10,13 @@ public class Client {
 
     public static void main(String[] args) throws IOException {
 
-        Coffee coffee = new Expresso(new Big());
+        Coffee coffee = new Espresso(new Big());
+        coffee = new Mocha(coffee);
+        coffee = new Milk(coffee);
+        System.out.println("Your order is " + coffee.getDescription());
+        System.out.println("Total cost is "+ coffee.cost());
+
+        coffee = new DarkRoast(new Big());
         coffee = new Mocha(coffee);
         coffee = new Milk(coffee);
         System.out.println("Your order is " + coffee.getDescription());
