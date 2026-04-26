@@ -1,4 +1,4 @@
-##Abstract Document Pattern
+## Abstract Document Pattern
 > The object for javascript as a dynamic language is very flexible, because
 extra fields can be added into the object at runtime.
 

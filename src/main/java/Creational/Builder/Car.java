@@ -9,7 +9,7 @@ public class Car {
     private final String decoration;
     private final String safetyBelt;
 
-    public Car(Builder builder) {
+    private Car(CarBuilder builder) {
         this.carBody = builder.carBody;
         this.tyre = builder.tyre;
         this.engine = builder.engine;
@@ -18,11 +18,11 @@ public class Car {
         this.safetyBelt = builder.safetyBelt;
     }
 
-    public static Builder defaultBuilder() {
-        return new Builder();
+    public static CarBuilder builder() {
+        return new CarBuilder();
     }
 
-    public static class Builder {
+    public static class CarBuilder {
         private String carBody;
         private String tyre;
 
@@ -31,35 +31,35 @@ public class Car {
         private String decoration;    //optional field
         private String safetyBelt;    //optional field
 
-        public Builder() {
+        public CarBuilder() {
         }
 
-        public Builder CarBody(String carBody) {
+        public CarBuilder withBody(String carBody) {
             this.carBody = carBody;
             return this;
         }
 
-        public Builder Tyre(String tyre) {
+        public CarBuilder withTyre(String tyre) {
             this.tyre = tyre;
             return this;
         }
 
-        public Builder SafetyBelt(String safetyBelt) {
+        public CarBuilder withSafetyBelt(String safetyBelt) {
             this.safetyBelt = safetyBelt;
             return this;
         }
 
-        public Builder Engine(String engine) {
+        public CarBuilder withEngine(String engine) {
             this.engine = engine;
             return this;
         }
 
-        public Builder AimingCircle(String aimingCircle) {
+        public CarBuilder withAimingCircle(String aimingCircle) {
             this.aimingCircle = aimingCircle;
             return this;
         }
 
-        public Builder Decoration(String decoration) {
+        public CarBuilder withDecoration(String decoration) {
             this.decoration = decoration;
             return this;
         }

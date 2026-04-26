@@ -17,3 +17,8 @@ Besides the additives, a cup coffee can have several sizes：
 
 So we have two varying dimensions for coffee: coffee and additives, cup size. These two 
 can vary independently. In order to decouple the two dimensions, we use bridge pattern.
+
+## Scenarios
+
+### 1. Service in DryRun mode
+A service may contain read and write operations to external data sink

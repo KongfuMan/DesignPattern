@@ -2,12 +2,12 @@ package Creational.Builder;
 
 public class main {
     public static void main(String[] args) {
-        Car car = Car.defaultBuilder()
-                .CarBody("my-car-body")
-                .Tyre("my-tyre")
-                .SafetyBelt("my-safety-belt")
-                .AimingCircle("my-aiming-circle")
-                .Decoration("my-decoration")
-                .Engine("my-egnine").build();
+        Car car = Car.builder()
+                .withBody("my-car-body")
+                .withTyre("my-tyre")
+                .withSafetyBelt("my-safety-belt")
+                .withAimingCircle("my-aiming-circle")
+                .withDecoration("my-decoration")
+                .withEngine("my-engine").build();
     }
 }
