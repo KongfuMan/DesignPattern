@@ -1,10 +1,10 @@
-##Responsibility Chain
+## Responsibility Chain
 
 
-###Example
+### Example
 Request come in and go through a chain of request handlers
 
-###Implementation
+### Implementation
 
 ```java
 public abstract class RequestHandler{

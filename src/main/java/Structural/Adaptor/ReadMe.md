@@ -1,18 +1,16 @@
 ## Adapter Pattern
-Adapter pattern is often used to encapsulate the difference of external apis and expose a set
-of unified APIs to the user.
-Let's take the following use case as an example.
+> The Adapter pattern is commonly used to encapsulate differences between external dependencies 
+  that provide similar functionality, and expose a unified interface to the client.
 
-Suppose we are building a back end service to save data into both AWS S3
-and Microsoft Azure blob storage. Since the APIs of S3 is different with that of blob storage, for the user who
+### Example
+We are building a data persistence service to save data into various cloud storage services: AWS S3
+, Azure blob storage and google cloud storage. Since the APIs are not unified, for the user who
 wants to call this API, he needs to be aware of the difference.
 
 This is where Adapter pattern comes into play.
-You can just use an adapter class, which has an unified API, let's say
+You can just use an adapter class, which abstract the gap way and exposes an unified API:
 
 ### classes
 - interface expose to client;  // should have interfaces required by client
 - Adaptor must implement interface, and contains an incompatible class.     
 Adaptor will use the class to implement interface method.
-
-### example

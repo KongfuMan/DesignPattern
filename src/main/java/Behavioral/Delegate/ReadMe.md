@@ -1,13 +1,12 @@
-##Delegate Pattern
-将Class和方法进行解耦合，可以随时换不同的实现方法
+## Delegate Pattern
+Decouple the class and methods，可以随时换不同的实现方法
 
 可以结合C#的delegate 关键字，相当于C++中的函数指针。在JAVA中没有函数指针/引用，
 可以通过接口来实现。
 
-###Example
-> 假设有一个OLED屏幕的代理工厂（OLEDDelegate),它可以生产LG, Samsung两家的面板.
-现在有客户（小米）需要这家工厂生产面板，至于是那种面板，需要客户来指定，所以这家工厂
-需要能随时替换生产方法
+### Example
+> Suppose there is a proxy factory for OLED screens (OLEDDelegate) that can produce panels from both LG and Samsung.
+Now a customer (Xiaomi) wants this factory to manufacture panels. As for which type of panel to produce, it needs to be specified by the customer. Therefore, the factory must be able to switch its production method at any time
 
 ```java
 public interface OLE{

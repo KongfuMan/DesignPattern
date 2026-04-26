@@ -1,12 +1,11 @@
 ## Iterator pattern
-
 Used to iterate over a collection
 
-if we have several collections containing different
-elements and with different structure(maby a tree, or list),
-We want to implement a iterator that independent of
+If we have several collections containing different
+elements and with different structure(maybe a tree, or list),
+We want to implement an iterator that independent of
 the implementation of collections such that user can 
-use this iterator to go through the collectoins.
+use this iterator to go through the collection.
 
 
 ![img](Iterator.png)
@@ -17,5 +16,11 @@ public interface Iterable<T> {
 }
 ```
 
+## Scenario
+### Pageable database query
+
+
+### Binary tree iterator in various orders 
+Pre-order, In-order, Post-order
     
     
