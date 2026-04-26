@@ -1,4 +1,4 @@
-package NIO.Example;
+package NIO.Reactor;
 
 public enum  SocketEvent {
     /**

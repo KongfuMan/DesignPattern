@@ -1,4 +1,4 @@
-package NIO.Example;
+package NIO.Reactor;
 
 public class Server {
     private NIOEndpoint endpoint;

@@ -19,5 +19,4 @@ public abstract class Person<T> implements CookFood {
     private void washDishes(){
 		System.out.println("Wash dishes after meal");
 	}
-
 }

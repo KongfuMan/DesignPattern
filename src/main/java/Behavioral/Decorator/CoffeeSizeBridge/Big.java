@@ -1,4 +1,4 @@
-package Behavioral.Decorator.CoffeeSize;
+package Behavioral.Decorator.CoffeeSizeBridge;
 
 public class Big implements CoffeeSize {
     public int cost(){

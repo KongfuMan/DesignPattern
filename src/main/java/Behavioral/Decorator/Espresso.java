@@ -1,10 +1,10 @@
 package Behavioral.Decorator;
 
-import Behavioral.Decorator.CoffeeSize.CoffeeSize;
+import Behavioral.Decorator.CoffeeSizeBridge.CoffeeSize;
 
-public class Expresso implements Coffee {
+public class Espresso implements Coffee {
     private final CoffeeSize size;
-    public Expresso(CoffeeSize size){
+    public Espresso(CoffeeSize size){
         this.size = size;
     }
 
