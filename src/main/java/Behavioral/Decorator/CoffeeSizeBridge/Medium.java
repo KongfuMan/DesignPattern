@@ -1,4 +1,4 @@
-package Behavioral.Decorator.CoffeeSize;
+package Behavioral.Decorator.CoffeeSizeBridge;
 
 public class Medium {
     public int cost(){

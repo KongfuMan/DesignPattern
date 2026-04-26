@@ -1,7 +1,7 @@
 package Behavioral.Decorator;
 
 
-import Behavioral.Decorator.CoffeeSize.CoffeeSize;
+import Behavioral.Decorator.CoffeeSizeBridge.CoffeeSize;
 
 // decorator not only is a kind of beverage, but has a kinds of beverage. The beverage addon decorator itself can wrap
 // outside the beverage it contains. The beverage it contains can also wrap around some other beverage inside it,

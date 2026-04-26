@@ -2,7 +2,7 @@ package Behavioral.Decorator;
 
 import Behavioral.Decorator.CoffeeDecorator.Milk;
 import Behavioral.Decorator.CoffeeDecorator.Mocha;
-import Behavioral.Decorator.CoffeeSize.Big;
+import Behavioral.Decorator.CoffeeSizeBridge.Big;
 
 import java.io.*;
 
