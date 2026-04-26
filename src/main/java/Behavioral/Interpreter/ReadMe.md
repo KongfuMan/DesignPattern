@@ -1,7 +1,7 @@
-###Interpreter
+## Interpreter
 
 
-###用于表示一个编程语言的syntax tree.
+### Represent the syntax tree.
 
 ```java
 public abstract class Expression{
@@ -14,6 +14,3 @@ public class PlusExpression extends Expression{
 }
 
 ```
-
-### Liang
-> 感觉有点类似于composite模式
